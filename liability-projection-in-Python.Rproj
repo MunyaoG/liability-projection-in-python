@@ -11,7 +11,3 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
-
-PythonType: conda
-PythonVersion: 3.11.7
-PythonPath: C:/Users/kawen/anaconda3/python.exe
